@@ -1,8 +1,29 @@
-# **Hello** 👋
-My name is **Fusion Terror**  I'm a ***YouTuber*** with `6,700` subscribers. ***__Discord Bot Developing__*** is my specialty, *DM me for inquires!*
----
-## **Links & Support:**
-[![Discord Button](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.filehorse.com%2Ficons%2Fmessaging-and-chat%2Fdiscord-icon-32.png&f=1&nofb=1)](https://discord.gg/QJyTkNxVrX)[![YouTubeButton](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Fgoogle_jfk_icons_by_carlosjj%2F32%2Fyoutube.png&f=1&nofb=1)](https://youtube.com/fusionterror)[![PatreonButton](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fc5.patreon.com%2Fexternal%2Ffavicon%2Ffavicon-32x32.png&f=1&nofb=1)](https://patreon.com/fusionterror)
+# ___Welcome to my GitHub___ 👋
 
-##  **Languages:**
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+## _About Me:_
+* _[YouTuber](https://youtube.com/fusionterror) with almost `7,000` subscribers_
+* _Studying Computer Engineering as of September 2022!_
+* _Yes, 17 years old!_
+
+## _GitHub Stats:_
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=fusionterror&count_private=true&theme=radical&showicons=true&hide=contribs,prs">
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fusionterror&langs_count=5&theme=radical">
+
+<br>
+
+## _Links:_
+* [Fusion Empire Discord server.](https://discord.com/invite/QJyTkNxVrX)
+<img align="center" src="https://imgur.com/R0br5YC.png" width="30">
+
+* [My YouTube channel.](https://discord.com/invite/QJyTkNxVrX)
+<img align="center" src="https://maxcdn.icons8.com/Share/icon/Media_Controls/youtube_play1600.png" width="30">
+
+* [My Patreon channel.](https://discord.com/invite/QJyTkNxVrX)
+<img align="center" src="https://cdn.freebiesupply.com/logos/large/2x/patreon-logo-png-transparent.png" width="22">
+
+## _Contact_:
+* Email: fusionterrorbusiness@gmail.com

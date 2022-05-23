@@ -38,7 +38,6 @@
 ### 📩 **_Latest Uploads -_**
 
 <!-- YOUTUBE:START -->
-
 - [[NEW] Hosting a Discord Bot 24/7 for FREE with Heroku || Discord.JS v13 2022](https://www.youtube.com/watch?v=uH3nWjql2IE)
 - [[NEW] Deploying a Discord Bot to Docker Containers || Discord.JS v13 2022](https://www.youtube.com/watch?v=qp2pgLtb2Cw)
 - [[NEW] Hosting a Discord Bot 24/7 for FREE with Repl.it || Discord.JS v13 2022](https://www.youtube.com/watch?v=D7OWuslFYCw)

@@ -1,6 +1,9 @@
 # **_Welcome to my GitHub profile_** 👋
 
+[![Patreon Badge](https://img.shields.io/badge/-Donate/Support-0D1117?logo=patreon&style=for-the-badge)][patreon]
+[![Mail Badge](https://img.shields.io/badge/-EMail/Contact-0D1117?logo=gmail&style=for-the-badge)][mail]
 <br />
+
 <!-- <img align="right" src="./images/laptop.gif" width="270" height="235"> -->
 
 ## 📖 **_About Me:_**
@@ -9,9 +12,6 @@
 - Studying computer engineering as of September 2022!
 - I've got a YouTube channel called, [Fusion Terror][youtube].
 - Currently, 17 years old!
-
-[![Patreon Badge](https://img.shields.io/badge/-Donate/Support-0D1117?logo=patreon&style=for-the-badge)][patreon]
-[![Mail Badge](https://img.shields.io/badge/-EMail/Contact-0D1117?logo=gmail&style=for-the-badge)][mail]
 
 ### ⌨️ **_Languages and Tools -_**
 
@@ -38,6 +38,7 @@
 ### 📩 **_Latest Uploads -_**
 
 <!-- YOUTUBE:START -->
+
 - [[NEW] Hosting a Discord Bot 24/7 for FREE with Heroku || Discord.JS v13 2022](https://www.youtube.com/watch?v=uH3nWjql2IE)
 - [[NEW] Deploying a Discord Bot to Docker Containers || Discord.JS v13 2022](https://www.youtube.com/watch?v=qp2pgLtb2Cw)
 - [[NEW] Hosting a Discord Bot 24/7 for FREE with Repl.it || Discord.JS v13 2022](https://www.youtube.com/watch?v=D7OWuslFYCw)

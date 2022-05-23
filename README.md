@@ -1,7 +1,7 @@
 # **_Welcome to my GitHub profile_** 👋
 
 <br />
-<img align="right" src="./images/image.gif" width="270" height="235">
+<img align="right" src="./images/laptop.gif" width="270" height="235">
 
 ## 📖 **_About Me:_**
 

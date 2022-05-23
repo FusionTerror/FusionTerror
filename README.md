@@ -25,7 +25,7 @@
 [![C Sharap Badge](https://img.shields.io/badge/-C_Sharp-0D1117?logo=csharp&logoColor=239120)][cs]
 [![Markdown Badge](https://img.shields.io/badge/-Markdown-0D1117?logo=markdown)][markdown]
 [![HTML Badge](https://img.shields.io/badge/-HTML-0D1117?logo=html5)][html]
-[![Markdown Badge](https://img.shields.io/badge/-Markdown-0D1117?logo=css3&logoColor=1572B6)][css]
+[![CSS Badge](https://img.shields.io/badge/-CSS-0D1117?logo=css3&logoColor=1572B6)][css]
 
 <br />
 

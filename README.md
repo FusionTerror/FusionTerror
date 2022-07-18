@@ -38,11 +38,11 @@
 ### 📩 **_Latest Uploads -_**
 
 <!-- YOUTUBE:START -->
+- [[NEW] How To Make A Discord Bot || Discord.JS v14](https://www.youtube.com/watch?v=6IgOXmQMT68)
 - [[NEW] How To Make A SELECT MENU HANDLER for a Discord Bot || Discord.JS v13 2022](https://www.youtube.com/watch?v=49BMgtNNIZg)
 - [[NEW] Hosting a Discord Bot 24/7 for FREE with Heroku || Discord.JS v13 2022](https://www.youtube.com/watch?v=uH3nWjql2IE)
 - [[NEW] Deploying a Discord Bot to Docker Containers || Discord.JS v13 2022](https://www.youtube.com/watch?v=qp2pgLtb2Cw)
 - [[NEW] Hosting a Discord Bot 24/7 for FREE with Repl.it || Discord.JS v13 2022](https://www.youtube.com/watch?v=D7OWuslFYCw)
-- [[NEW] How To Make A CUSTOM Discord Rich Presence Status || Discord-RPC 2022](https://www.youtube.com/watch?v=DGmK_cN9370)
 <!-- YOUTUBE:END -->
 
 <br />

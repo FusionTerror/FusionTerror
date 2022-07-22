@@ -38,11 +38,11 @@
 ### 📩 **_Latest Uploads -_**
 
 <!-- YOUTUBE:START -->
+- [[NEW] Modal Builder GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=qNB7pQBhqDQ)
 - [[NEW] Select Menu Builder GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=Ance5go0e0M)
 - [[NEW] Button Builder GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=dbfF570IyCg)
 - [[NEW] Embed Builder GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=DB8a8i1pXUM)
 - [[NEW] How To Make A Discord Bot || Discord.JS v14](https://www.youtube.com/watch?v=6IgOXmQMT68)
-- [[NEW] How To Make A SELECT MENU HANDLER for a Discord Bot || Discord.JS v13 2022](https://www.youtube.com/watch?v=49BMgtNNIZg)
 <!-- YOUTUBE:END -->
 
 <br />

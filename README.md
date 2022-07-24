@@ -38,11 +38,11 @@
 ### 📩 **_Latest Uploads -_**
 
 <!-- YOUTUBE:START -->
+- [[NEW] Reactions GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=Q9iXQDkXygs)
 - [[NEW] Context Menu Builder GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=vop0U65uke8)
 - [[NEW] Modal Builder GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=qNB7pQBhqDQ)
 - [[NEW] Select Menu Builder GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=Ance5go0e0M)
 - [[NEW] Button Builder GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=dbfF570IyCg)
-- [[NEW] Embed Builder GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=DB8a8i1pXUM)
 <!-- YOUTUBE:END -->
 
 <br />

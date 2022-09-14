@@ -38,11 +38,11 @@
 ### 📩 **_Latest Uploads -_**
 
 <!-- YOUTUBE:START -->
+- [[NEW] YouTube Notification GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=eET370wIJSM)
 - [[NEW] Presence GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=sHksse4EUFU)
 - [[NEW] Moderation GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=2eI2ejxMtKM)
 - [[NEW] MongoDB GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=Ina9qiiujCQ)
 - [[NEW] Autocomplete GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=vLFdRtQ7tS4)
-- [NEW] Permissions GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=UYgtiooaBao)
 <!-- YOUTUBE:END -->
 
 <br />

@@ -38,11 +38,11 @@
 ### 📩 **_Latest Uploads -_**
 
 <!-- YOUTUBE:START -->
+- [[NEW] Economy System GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=Gyh_BJEEO9E)
 - [[NEW] YouTube Notification GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=eET370wIJSM)
 - [[NEW] Presence GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=sHksse4EUFU)
 - [[NEW] Moderation GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=2eI2ejxMtKM)
 - [[NEW] MongoDB GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=Ina9qiiujCQ)
-- [[NEW] Autocomplete GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=vLFdRtQ7tS4)
 <!-- YOUTUBE:END -->
 
 <br />

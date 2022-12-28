@@ -17,9 +17,14 @@
 
 [![NPM Badge](https://img.shields.io/badge/-NPM-0D1117?logo=npm)][npm]
 [![VS Code Badge](https://img.shields.io/badge/-Visual_Studio_Code-0D1117?logo=visual-studio-code&logoColor=007ACC)][vscode]
+[![Visual Studio Badge](https://img.shields.io/badge/-Visual_Studio-0D1117?logo=visual-studio&logoColor=007ACC)][vs]
+[![Eclipse IDE Badge](https://img.shields.io/badge/-Eclipse_IDE-0D1117?logo=eclipse-ide&logoColor=007ACC)][eclipseide]
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-0D1117?logo=node.js)][nodejs]
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-0D1117?logo=javascript)][javascript]
+[![.ENV Badge](https://img.shields.io/badge/-dotenv-0D1117?logo=.env)][.env]
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-0D1117?logo=mongodb)][mongodb]
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-0D1117?logo=mysql)][mysql]
+[![MS-SQL Badge](https://img.shields.io/badge/-SQL_Server-0D1117?logo=microsoftsqlserver)][mssql]
 [![Processing Badge](https://img.shields.io/badge/-Processing-0D1117?logo=processing-foundation&logoColor=006699)][processing]
 [![Java Badge](https://img.shields.io/badge/-Java-0D1117?logo=java&logoColor=007396)][java]
 [![C Sharap Badge](https://img.shields.io/badge/-C_Sharp-0D1117?logo=csharp&logoColor=239120)][cs]
@@ -65,10 +70,15 @@
 [npm]: https://www.npmjs.com/~fusionterror
 [cs]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [vscode]: https://code.visualstudio.com
+[vs]: https://visualstudio.microsoft.com/
+[eclipseide]: https://eclipseide.org/
 [mongodb]: https://www.mongodb.com
+[mysql]: https://www.mysql.com/
+[mssql]: https://www.microsoft.com/en-us/sql-server
 [markdown]: https://www.markdownguide.org
 [html]: https://html.com/html5/
 [css]: https://www.css3.com
 [discord]: https://discord.gg/74MasbJQ32
 [patreon]: https://patreon.com/fusionterror
+[.env]: https://www.npmjs.com/package/dotenv
 [mail]: mailto:fusionterrorbusiness@gmail.com

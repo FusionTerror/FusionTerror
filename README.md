@@ -43,11 +43,11 @@
 ### 📩 **_Latest Uploads -_**
 
 <!-- YOUTUBE:START -->
+- [[NEW] Command Reponses GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=jntUHXiFB8g)
 - [[NEW] How to CLAIM the Active Developer BADGE || 2022](https://www.youtube.com/watch?v=Cm9Rl292Gk0)
 - [[NEW] Economy System GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=Gyh_BJEEO9E)
 - [[NEW] YouTube Notification GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=eET370wIJSM)
 - [[NEW] Presence GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=sHksse4EUFU)
-- [[NEW] Moderation GUIDE || Discord.JS v14](https://www.youtube.com/watch?v=2eI2ejxMtKM)
 <!-- YOUTUBE:END -->
 
 <br />

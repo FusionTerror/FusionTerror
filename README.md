@@ -8,9 +8,8 @@
 
 ## 📖 **_About Me:_**
 
-- College Student, Developer, and Content Creator.
+- I.T. Technician, Developer, and Content Creator.
 - I've got a YouTube channel called, [Fusion Terror][youtube].
-- Studying Computer Engineering!
 - Currently, 18 years old!
 
 ### ⌨️ **_Languages and Tools -_**

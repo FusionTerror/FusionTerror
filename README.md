@@ -10,7 +10,7 @@
 
 - I.T. Technician, Developer, and Content Creator.
 - I've got a YouTube channel called, [Fusion Terror][youtube].
-- Currently, 18 years old!
+- Currently, 19 years old!
 
 ### ⌨️ **_Languages and Tools -_**
 
